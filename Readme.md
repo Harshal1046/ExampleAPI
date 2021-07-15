@@ -1,4 +1,4 @@
-# ASP.NET Core WebApi Sample with HATEOAS, Versioning & Swagger
+# ASP.NET Core Web Api
 
 In This Project, I Used Code First Approch To Create Web API Using .NET 5 With Entity Framework Core (ORM) & Sql Sever (Database)
 
